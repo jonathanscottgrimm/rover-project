@@ -1,0 +1,14 @@
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/RoverConsoleApp.deps.json
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/RoverConsoleApp.runtimeconfig.json
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/RoverConsoleApp.runtimeconfig.dev.json
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/RoverConsoleApp.dll
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/RoverConsoleApp.pdb
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.AssemblyInfoInputs.cache
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.AssemblyInfo.cs
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.csproj.CopyComplete
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.dll
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.pdb
+/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/Debug/netcoreapp3.1/RoverConsoleApp.genruntimeconfig.cache

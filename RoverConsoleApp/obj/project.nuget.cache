@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3LAeJIXa4Ob7ayUVN7TqUc+gtIdg1G9EzX1+j8hH9ZI0C9DooqAaXnYnOLrAZx8MEUFutRgBaKIk+s802eDroA==",
+  "success": true,
+  "projectFilePath": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/RoverConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathangrimm/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/jonathangrimm/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleAppTest/RoverConsoleAppTest.csproj": {}
+  },
+  "projects": {
+    "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/RoverConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/RoverConsoleApp.csproj",
+        "projectName": "RoverConsoleApp",
+        "projectPath": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/RoverConsoleApp.csproj",
+        "packagesPath": "/Users/jonathangrimm/.nuget/packages/",
+        "outputPath": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonathangrimm/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleAppTest/RoverConsoleAppTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleAppTest/RoverConsoleAppTest.csproj",
+        "projectName": "RoverConsoleAppTest",
+        "projectPath": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleAppTest/RoverConsoleAppTest.csproj",
+        "packagesPath": "/Users/jonathangrimm/.nuget/packages/",
+        "outputPath": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleAppTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonathangrimm/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/RoverConsoleApp.csproj": {
+                "projectPath": "/Users/jonathangrimm/Projects/RoverConsoleApp/RoverConsoleApp/RoverConsoleApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
